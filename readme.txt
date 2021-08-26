@@ -1,5 +1,3 @@
 wassuuup
-ezekiel 25:17
 
-"the one that says bad motherfucker"
-"thats my bad motherfucker"
+my name jeff
