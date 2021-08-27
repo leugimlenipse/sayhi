@@ -1,5 +1,17 @@
+
+
+#header{
+    font-family: 'Monaco';
+    text-align: start;
+}
+
+#title{
+    font-family: 'Monaco';
+}
+
 body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: blueviolet;
+    background-color: antiquewhite;
 }
